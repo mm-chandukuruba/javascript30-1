@@ -12,9 +12,3 @@
 
   window.addEventListener('keydown', playSound);
   
-/*
-
-
-
-
-*/
